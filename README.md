@@ -3,7 +3,7 @@ Practica SQL Niveladora Maestría 2019
 
 Hacer click en el binder y esperar a que se carge el repo. 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rloredo/practica_sql/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rloredo/practica_sql/master){:target="_blank"}
 
 Luego buscar el jupyter notebook "practica_sql.ipynb" y abrirlo
 
