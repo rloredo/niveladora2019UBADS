@@ -5,7 +5,7 @@ Hacer click en el binder y esperar a que se carge el repo.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rloredo/practica_sql/master)
 
-Luego buscar el jupyter notebook "practica_sql.ipynb" y abrirlo
+Luego buscar el jupyter notebook "practica_sql.ipynb" (para archivo en blanco, usar el resuelto para ver los resueltos) y abrirlo
 
 O lo podés correr en tu pc simplemente clonando el repo:
 
