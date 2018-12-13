@@ -1,15 +1,19 @@
-# practica_sql
-Practica SQL Niveladora Maestría 2019
+# Ejercicios de bases de datos y algoritmos
+Niveladores Maestría 2019
 
-Hacer click en el binder y esperar a que se carge el repo. 
+Hacer click en el binder y esperar a que se carge el repo.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rloredo/practica_sql/master)
 
-Luego buscar el jupyter notebook "practica_sql.ipynb" (para archivo en blanco, usar el resuelto para ver los resueltos) y abrirlo
+Luego navegar en las carpetas.
 
-O lo podés correr en tu pc simplemente clonando el repo:
+En practicaSQL el jupyter notebook "practica_sql.ipynb" para archivo en blanco.
+También se incluye uno con los ejercicios resueltos.
 
-`git clone https://www.github.com/rloredo/practica_sql`
+En algoritmos ...
 
-Vas a necesitar Anaconda Python, incluyendo jupyter notebook. Testeado en v3.6
+O se puede correr todo localmente simplemente clonando el repo:
 
+`git clone https://www.github.com/rloredo/niveladora2019UBADS`
+
+Recomendamos usar Anaconda para instalar Python y poder usar jupyter notebook (requiere pandas). Testeado en v3.6
