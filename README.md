@@ -10,7 +10,7 @@ Luego navegar en las carpetas:
 -> En practicaSQL el jupyter notebook "practica_sql.ipynb" para archivo en blanco.
 También se incluye uno con los ejercicios resueltos.
 
--> En algoritmos ...
+-> En algoritmos los ejercicios no están para ser corridos en notebook. Se encuentra la carpeta para bajar. NOTA: son todos scripts para python 2.7 
 
 O se puede correr todo localmente simplemente clonando el repo:
 
